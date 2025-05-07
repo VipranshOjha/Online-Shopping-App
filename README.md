@@ -57,8 +57,4 @@ Online-Shopping-App/
 
 Contributions are wecme! Please fork the repository and submit a pull request for any enhancements or bug ixes.
 
-## 📄 Liense
-
-This project is licensed under the MIT Lcnse. See the [LICENSE](LICENSE) file for dtails.
-
 ---

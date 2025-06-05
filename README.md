@@ -12,7 +12,7 @@ A Flutter-based mobile application designed to provide a seamless online shoppin
 ## 🛠️ Getting Started
 
 ### Prerequisites
-- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/instal)- Dart DK- An IDE like [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.co/)
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/instal) Dart DK- An IDE like [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.co/)
 
 ### Installation
 
@@ -54,6 +54,6 @@ Online-Shopping-App/
 
 ## 🤝 Contribuing
 
-Contributions are wecme! Please fork the repository and submit a pull request for any enhancements or bug ixes.
+Contributions are welcome!Please fork the repository and submit a pull request for any enhancements or bug ixes.
 
 ---

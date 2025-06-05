@@ -54,6 +54,6 @@ Online-Shopping-App/
 
 ## 🤝 Contribuing
 
-Contributions are welcome!Please fork the repository and submit a pull request for any enhancements or bug ixes.
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 ---
